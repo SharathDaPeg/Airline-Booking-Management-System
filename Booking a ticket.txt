@@ -1,0 +1,10 @@
+         Enter your passport number:
+
+         Enter your name:
+
+         Enter your email address:
+
+         Enter the Destination:
+
+         Seat booking succesful!
+         Your seat number is:

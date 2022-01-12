@@ -1,0 +1,23 @@
+ Passport Number : 130623
+      Name : Sharath Ranjith
+      Email address: sharathranjith@gmail.com
+      Seat number: A-1
+      Destination:London
+
+++*=====================================================*++
+
+ Passport Number : 130620
+      Name : John Alexander
+      Email address: jalex@hotmail.com
+      Seat number: A-2
+      Destination:New York
+
+++*=====================================================*++
+
+ Passport Number : 135249
+      Name : Sarah
+      Email address: sarahah@gmail.com
+      Seat number: A-3
+      Destination:London
+
+++*=====================================================*++

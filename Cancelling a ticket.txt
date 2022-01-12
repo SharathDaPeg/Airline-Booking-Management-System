@@ -1,0 +1,2 @@
+Enter Passport Number to delete record:
+ Your ticket has been deleted

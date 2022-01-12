@@ -1,0 +1,18 @@
+                 -------------------------------------------------------------------
+                          Welcome to Sharath's Airline Booking System
+                 -------------------------------------------------------------------
+
+
+                 Please enter your choice from below (1-4):
+
+                 1.Reservation for a flight
+
+                 2.Cancelling a ticket
+
+                 3.Display the Records
+
+                 4.Exit
+
+                 Feel free to contact
+
+                 Enter your choice :
